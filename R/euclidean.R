@@ -1,7 +1,7 @@
-#' Euclidean Function
-#' @param a,b are the integers
-#' @return Greatest Common divisor of these two numbers
-#' @export
+#'Euclidean Function with a waba laba dubdub
+#'@param a,b are the integers
+#'@return Greatest Common divisor of these two numbers
+#'@export
 euclidean<-function(a,b)
 {
   y=max(a,b)

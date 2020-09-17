@@ -2,7 +2,7 @@
 % Please edit documentation in R/euclidean.R
 \name{euclidean}
 \alias{euclidean}
-\title{Euclidean Function}
+\title{Euclidean Function with a waba laba dubdub}
 \usage{
 euclidean(a, b)
 }
@@ -13,5 +13,5 @@ euclidean(a, b)
 Greatest Common divisor of these two numbers
 }
 \description{
-Euclidean Function
+Euclidean Function with a waba laba dubdub
 }
